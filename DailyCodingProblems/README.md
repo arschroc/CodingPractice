@@ -6,3 +6,6 @@ Problem Descriptions:
 5. Given a list of integers, write a function that returns the largest sum of non-adjacent numbers.
 6. There exists a staircase with N steps, and you can climb up either 1 or 2 steps at a time. Given N, write a function that returns the number of unique ways to climb the staircase.
 7. Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
+8. You run an e-commerce website and want to record the last N order ids in a log. Implement a data structure to accomplish this, with the following API:
+	record(order_id): adds the order_id to the log
+	get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
