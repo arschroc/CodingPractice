@@ -14,3 +14,4 @@ Problem Descriptions:
     <br />Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, 
     <br />return the minimum cost which achieves this goal.
 <br />[10.](Problems/Problem10/src/problem10/Problem10.java) Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical.
+<br />[11.](Problems/Problem11/src/problem11/Problem11.java) Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.
