@@ -13,3 +13,4 @@ Problem Descriptions:
     <br />He has a goal of minimizing cost while ensuring that no two neighboring houses are of the same color.
     <br />Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, 
     <br />return the minimum cost which achieves this goal.
+<br />[10.](Problems/Problem10/src/problem10/Problem10.java) Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical.
