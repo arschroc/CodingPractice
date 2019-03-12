@@ -16,3 +16,4 @@ Problem Descriptions:
 <br />[10.](Problems/Problem10/src/problem10/Problem10.java) Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical.
 <br />[11.](Problems/Problem11/src/problem11/Problem11.java) Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.
 <br />[12.](Problems/Problem12/src/problem12/Problem12.java) Given a dictionary of words and a string made up of those words (no spaces), return the original sentence in a list.
+<br />[13.](Problems/Problem13/src/problem13/Problem13.java) Given a singly linked list and an integer k, remove the kth last element from the list.
