@@ -18,3 +18,4 @@ Problem Descriptions:
 <br />[12.](Problems/Problem12/src/problem12/Problem12.java) Given a dictionary of words and a string made up of those words (no spaces), return the original sentence in a list.
 <br />[13.](Problems/Problem13/src/problem13/Problem13.java) Given a singly linked list and an integer k, remove the kth last element from the list.
 <br />[14.](Problems/Problem14/src/problem14/Problem14.java) Given an array of time intervals (start, end) for classroom lectures (possibly overlapping), find the minimum number of rooms required.
+<br />[15.](Problems/Problem15/src/problem14/Problem15.java) Text Justification
