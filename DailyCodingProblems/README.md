@@ -20,3 +20,4 @@ Problem Descriptions:
 <br />[14.](Problems/Problem14/src/problem14/Problem14.java) Given an array of time intervals (start, end) for classroom lectures (possibly overlapping), find the minimum number of rooms required.
 <br />[15.](Problems/Problem15/src/problem15/Problem15.java) Text Justification
 <br />[16.](Problems/Problem16/src/problem16/Problem16.java) Implement run-length encoding and decoding. 
+<br />[17.](Problems/Problem17/src/problem17/Problem17.java) Trapping rain water
